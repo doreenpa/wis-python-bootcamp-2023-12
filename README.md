@@ -25,7 +25,7 @@
 | [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       |
 | [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 |
-
+| [Doreen Padan](https://github.com/doreenpa)            | [repo](https://github.com/doreenpa)
 
 ## Project
 
